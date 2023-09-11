@@ -1,0 +1,1 @@
+To run this program, go into the MarkovProblem file and run it, changing the method for any maze file
